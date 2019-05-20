@@ -1,0 +1,32 @@
+.folding{
+ background-color: #D8D8D8;
+ color: black;
+ cursor: pointer;
+ padding: 18px;
+ width: 100%;
+ border: none;
+ text-align: left;
+ font-size: 25px; 
+ transition: 2s; 
+}
+.folding:hover{
+ background-color:#747474;
+}
+
+.panel{
+  display: none;
+  background-color: white;
+
+  
+}
+.panel p{
+ font-size: 20px;
+ color:black;
+ font-family: 'Roboto', sans-serif;
+ 
+}
+
+.icons{
+    font-size: 17px;
+    float: right;
+}
